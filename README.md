@@ -1,8 +1,29 @@
-# marketing_campaign_analysis
+# Analysis of Marketing Campaign Results
+
+# Overview
+
+## Background
+Freedom Debt Relief is an organization that helps individuals who have accrued significant debt as a result of unexpected hardship and, as a result, are no longer able to meet their minimum monthly requirements. Upon enrolling in Freedom’s Debt Relief program, customers cease making payments to their creditors and instead make deposits they can afford into a new dedicated bank account with Freedom. Freedom uses these funds to negotiate with each of the client’s creditors to settle the debt, typically at only a fraction of what was originally owed. Freedom collects fees (proportional to the monthly deposited amount) from the client for agreements it successfully negotiates.
 
 ## Objectives
+Freedom recently ran a marketing campaign to promote their debt relief program. The cost of the campaign was $5 million. The overarching goal is to demonstrate the 
+
 Using the three datasets given:
 
-1. Provide a quantitative assessment of whether the marketing campaign was successful. How and why did you choose your specific success metric(s)?
-2. Based on the provided data, how would you recommend campaign strategy be adjusted in the future to improve performance?
-3. How do you think campaign performance would have changed if we did not run the campaign in Month 3, but instead postponed it until month 6? Provide an incremental number versus your result in Question #1.
+1. Provide a quantitative assessment of whether the marketing campaign was successful. Explain why these metrics were choosen.
+
+2. Based on the provided data, recommend ways the campaign strategy can be adjusted in the future to improve performance.
+
+3. Explain how campaign performance might change if it were run in month 6 rather than month 3. Provide an incremental number versus your result in Question #1.
+
+# Resources
+
+[client_data](/resources/datasets/client_data.csv) - Contains data regarding client's age, residence status, and geographical region
+
+[deposit_data](/resources/datasets/depost_data.csv) - Contains data regarding client deposit behavior. These include deposit type, deposit amount, deposit cadence, and deposit date.
+
+[calendar_data](/resources/datasets/calendar_data.csv) - Contains calendar information in relation to deposit and client datasets.
+
+# Results
+
+# Summary
