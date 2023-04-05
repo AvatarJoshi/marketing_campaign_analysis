@@ -25,7 +25,4 @@ Using the three datasets given:
 # Results
 In order to quantify the success of the marketing campaign it was important to determine whether or not the campaign resulted in an increase in the number of clients using Freedom Debt Reliefs services.
 
-
-
-
 # Summary
