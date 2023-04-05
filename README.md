@@ -31,9 +31,9 @@ On average, Freedom charges a fee of 21.5% of the total amount of debt that they
 
 ![Profit_Per_Month](/resources/images/profit_by_month.png)
 
-On average, the profit per month before the campaign was ~$6.3 million while after the campaign it was ~$8.3 million. This indicates the marketing campaign increased profit ~$2 million per month. 
+On average, the profit per month before the campaign was ~$6.3 million while after the campaign it was ~$8.2 million. This indicates the marketing campaign increased profit ~$1.9 million per month. 
 
-To better understand the cost and benefits of the marketing campaign, hypothetical data was generated to show total profit over a 12 month period with/without the campaign. It was assumed that profit each month would reflect the average profit per month before and after the campaign (before = $6.3 million and after = $8.3 million). In addition, since the marketing campaign cost $5 million the with campaign began at -$5 million. We can see that by the 4th month the campaign would have increased profits by $700,000 and by the 12th month profits would be icnreased by $15,900,000. 
+To better understand the cost and benefits of the marketing campaign, hypothetical data was generated to show total profit over a 12 month period with/without the campaign. It was assumed that profit each month would reflect the average profit per month before and after the campaign (before = $6.3 million and after = $8.2 million). In addition, since the marketing campaign cost $5 million campaign began at -$5 million. We can see that by the 4th month the campaign would have increased profits by $700,000 and by the 12th month profits would be icnreased by $17,800,000. 
 
 ![Hypothetical Profit](/resources/images/hypothetical_profit.png)
 
